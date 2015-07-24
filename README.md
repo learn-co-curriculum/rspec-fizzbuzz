@@ -1,9 +1,3 @@
-## Objectives
-
-1. Build methods that utilize flow control
-2. Read and understand test output to develop a working program
-3. Gain more familiarity with the concept of test driven development
-
 # A Note on This Guide
 
 We've been introduced to the concept of test driven development and reading and understanding RSpec tests before. You've been reading these tests for a while now, but TDD is a big topic and we're going to take a cloer look at it here. 
@@ -526,4 +520,4 @@ fizzbuzz()  # => You should get an argument error
 
 **Helpful Tip:** You can try code in IRB and then copy it to your program files as you get it working. You can also use Pry by placing the line `require 'pry'` at the top of your `fizzbuzz.rb` and placing `binding.pry` inside the method before running RSpec. 
 
-Good luck!
+Good luck.
