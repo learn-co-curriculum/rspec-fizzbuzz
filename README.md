@@ -336,7 +336,7 @@ So, why did our test fail? Because we did not define a `fizzbuzz` method.
 
 # Solving FizzBuzz
 
-It is finally time to actually program a solution to fizzbuzz. The first question to answer is where do we put our solution, the actual code we care about, the program we're writing. Let's look at our current directory structure.
+It is finally time to actually program a solution to fizzbuzz. We must decide where to put our solution, the actual code we are going to write. Let's look at our current directory structure.
 
 ```
 rspec-fizzbuz/
