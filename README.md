@@ -24,7 +24,7 @@ RSpec is a testing tool for the Ruby programming language. Born under the banner
 
 # What is Test Driven Development?
 
-Test Driven Development, or TDD, is a method for approaching a problem not through the implementation of the solution, but rather, through the expectations of a working solution. What that means is, instead of trying to write the code that solves the problem, you first define what the working code will do when it works, and then you write the implementation to make it work.
+Test Driven Development, or TDD, is a method for approaching a problem not through the implementation of the solution, but rather, through the expectations of a working solution. What that means is, instead of trying to write the code that solves the problem, you first define what the exisiting code will do when it is run, and then you modify the code to make it work.
 
 # Test Driving FizzBuzz
 
