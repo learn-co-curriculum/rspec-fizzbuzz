@@ -330,7 +330,7 @@ NoMethodError:
      # ./spec/fizzbuzz_spec.rb:5:in `block (2 levels) in <top (required)>'
 ```
 
-We have a `NoMethodError`. There is no method `fizzbuzz`, and the line that is important is line 5 of `/spec/fizzbuzz_spec.rb`. The rest of it is just RSpec noise (the thing about `RSpec::Core::ExampleGroup::Nested_1` is pretty meta and not worth going into here).
+We have a `NoMethodError`. There is no method `fizzbuzz`, and the line that is important is line 5 of `/spec/fizzbuzz_spec.rb`. The rest of it is just RSpec noise (the thing about `RSpec::Core::ExampleGroup::Nested_1` is sometimes called "meta" code and not worth going into here).
 
 So, why did our test fail? Because we did not define a `fizzbuzz` method.
 
