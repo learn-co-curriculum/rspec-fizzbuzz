@@ -179,7 +179,7 @@ You won't have to write your own tests for a while, so don't worry about masteri
 
 **First, fork and clone this lab and open it on your machine. Read the remainder of this tutorial and follow along by executing certain commands and writing certain code in this lab on your computer.**
 
-So the entire FizzBuzz test looks like (this file is located in `spec/fizzbuzz_spec.rb`:
+Here is the entire FizzBuzz test:
 
 File: `spec/fizzbuzz_spec.rb`
 
@@ -402,7 +402,7 @@ NameError: undefined local variable or method `fizzbuzz' for main:Object
   from /Users/avi/.rvm/rubies/ruby-2.0.0-p247/bin/irb:16:in `<main>'
 ```
 
-There's our error. We tried calling `fizzbuzz` and IRB complains that it doesn't know what we're talking about. Why? Well, when did we tell IRB to actually load the contents of our `fizzbuzz.rb`? We didn't. And no where in our test runtime did we tell our tests to actually load the contents, to read, to require, `fizzbuzz.rb`. Try this in IRB
+There's our error. We tried calling `fizzbuzz` and IRB complains that it doesn't know what we're talking about. Why? Well, when did we tell IRB to actually load the contents of our `fizzbuzz.rb`? We didn't. And nowhere in our test runtime did we tell our tests to actually load the contents, to read, to require, `fizzbuzz.rb`. Try this in IRB
 
 ```
 2.0.0-p247 :001 > fizzbuzz
@@ -463,3 +463,5 @@ fizzbuzz()  # => You should get an argument error
 Good luck!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rspec-fizzbuzz' title='Objectives'>Objectives</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rspec-fizzbuzz'>RSpec Fizzbuzz</a> on Learn.co and start learning to code for free.</p>
