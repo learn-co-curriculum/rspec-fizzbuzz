@@ -28,7 +28,7 @@ Test Driven Development, or TDD, is a method for approaching a problem not throu
 
 # Test Driving FizzBuzz
 
-A classic programming problem is [FizzBuzz](http://c2.com/cgi/wiki?FizzBuzzTest). It is considered the [Stairway to Heaven](http://www.codinghorror.com/blog/2007/02/fizzbuzz-the-programmers-stairway-to-heaven.html) of programming because there are so many different ways to play it and everyone plays it.
+A classic programming problem is [FizzBuzz](http://webcache.googleusercontent.com/search?q=cache:KLCdYpTW8rYJ:c2.com/cgi/wiki%3FFizzBuzzTest+&cd=1&hl=en&ct=clnk&gl=us). It is considered the [Stairway to Heaven](http://www.codinghorror.com/blog/2007/02/fizzbuzz-the-programmers-stairway-to-heaven.html) of programming because there are so many different ways to play it and everyone plays it.
 
 The goal of FizzBuzz is to build a program that can take a number and if the number is evenly divisible by 3, it should return "Fizz", if it's divisible by 5, it should return "Buzz", and if it's divisible by both 3 and 5, it should return "FizzBuzz".
 
@@ -473,3 +473,5 @@ Good luck!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rspec-fizzbuzz' title='RSpec Fizzbuzz'>RSpec Fizzbuzz</a> on Learn.co and start learning to code for free.</p>
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/rspec-fizzbuzz'>Rspec Fizzbuzz</a> on Learn.co and start learning to code for free.</p>
