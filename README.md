@@ -298,7 +298,6 @@ rspec
 Run options: include {:focus=>true}
 
 All examples were filtered out; ignoring {:focus=>true}
-FFFF
 ```
 
 The first two lines of output are descriptive; RSpec is simply telling us what it did.
@@ -473,3 +472,5 @@ Good luck!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rspec-fizzbuzz' title='RSpec Fizzbuzz'>RSpec Fizzbuzz</a> on Learn.co and start learning to code for free.</p>
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/rspec-fizzbuzz'>RSpec Fizzbuzz</a> on Learn.co and start learning to code for free.</p>
