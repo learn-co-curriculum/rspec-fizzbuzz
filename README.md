@@ -467,9 +467,11 @@ fizzbuzz(5) # => You should see a return of nil
 fizzbuzz()  # => You should get an ArgumentError
 ```
 
-**Helpful Tip:** You can try out code in IRB and then copy it to your program files as you get it working. You can also use Pry, an IRB alternative, by placing the line `require 'pry'` at the top of `fizzbuzz.rb` and placing `binding.pry` inside the method before running RSpec.
+**Helpful Tip:** You can try out code in IRB and then copy it to your program files as you get it working. You can also use Pry, an IRB alternative, by placing the line `require 'pry'` at the top of `fizzbuzz.rb` and placing `binding.pry` inside the method before running RSpec. Finally, add `gem 'pry'` to the Gemfile in the top level of the lab directory. This will tell your program to go get the pry debugger from the internets (we'll learn more about this later) so that you can use it in your program. You should also see `gem 'rspec'` in the Gemfile. This is where we've told your program to go get the rspec library we've discussed. Without even knowing it, you've just added a new Gem to your project. Go you.
 
 Good luck!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rspec-fizzbuzz' title='RSpec Fizzbuzz'>RSpec Fizzbuzz</a> on Learn.co and start learning to code for free.</p>
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/rspec-fizzbuzz'>Rspec Fizzbuzz</a> on Learn.co and start learning to code for free.</p>
