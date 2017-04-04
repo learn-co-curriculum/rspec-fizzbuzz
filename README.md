@@ -34,7 +34,7 @@ The goal of FizzBuzz is to build a program that can take a number and if the num
 
 ## Defining Our Expectations
 
-Let's approach solving this problem from a TDD approach. That means what we don't care about "how", but rather, we care about "what". What should the program do if it works correctly, not how it does it. We are going to write our expectations first, then our implementation.
+Let's approach solving this problem from a TDD approach. That means that we don't care about "how", but rather, we care about "what". What should the program do if it works correctly, not how it does it. We are going to write our expectations first, then our implementation.
 
 Before we look at the RSpec syntax, let's just express our tests in plain English (also sometimes referred to as "pseudo-code").
 
@@ -473,3 +473,5 @@ Good luck!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rspec-fizzbuzz' title='RSpec Fizzbuzz'>RSpec Fizzbuzz</a> on Learn.co and start learning to code for free.</p>
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/rspec-fizzbuzz'>Rspec Fizzbuzz</a> on Learn.co and start learning to code for free.</p>
