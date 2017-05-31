@@ -74,7 +74,7 @@ describe "fizzbuzz" do
 end
 ```
 
-Sure, that code looks crazy and it's actually quite advanced, but we don't need to think about all of it, we just need to focus on 5 words: `describe`, `it`, `expect`, `to`, and `eq`. Let's break down that example.
+Sure, that code looks crazy and it's actually quite advanced, but we don't need to think about all of it, we just need to focus on 5 words: `describe`, `it`, `expect`, `do`, and `eq`. Let's break down that example.
 
 ## `describe`
 
